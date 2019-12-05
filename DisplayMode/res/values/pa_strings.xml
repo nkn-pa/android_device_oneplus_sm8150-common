@@ -28,4 +28,5 @@
     <string name="dc_mode_title">DC-Dimming</string>
     <string name="tile_hbm_mode">High brightness modes</string>
     <string name="tile_dc_mode">DC-Dimming</string>
+    <string name="panel_mode_info">Disable panel mode requires reboot.</string>
 </resources>

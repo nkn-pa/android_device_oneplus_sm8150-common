@@ -23,10 +23,11 @@
     <string name="dci_mode_title">Режим широкой цветовой гаммы DCI-P3</string>
     <string name="panel_category_title">Режимы панели</string>
     <string name="panel_category_summary">Режимы для цветовой коррекции панели</string>
-    <string name="off_mode_title">Выкл</string>
+    <string name="off_mode_title">Выключено</string>
     <string name="tile_panel_mode">Режимы панели</string>
     <string name="tile_hbm_mode">Режим высокой яркости</string>
     <string name="dc_mode_summary"></string>
     <string name="dc_mode_title">DC-затемнение</string>
     <string name="tile_dc_mode">DC-затемнение</string>
+    <string name="panel_mode_info">Выключение режимов панели требует перезагрузки.</string>
 </resources>
