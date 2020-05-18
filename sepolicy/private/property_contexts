@@ -13,3 +13,5 @@ persist.vendor.debug.sensors.stats               u:object_r:vendor_sensors_prop:
 persist.vendor.debug.sensors.ssc_latency         u:object_r:vendor_sensors_prop:s0
 persist.vendor.debug.sensors.trace               u:object_r:vendor_sensors_prop:s0
 persist.vendor.debug.sensors.trace.inputms       u:object_r:vendor_sensors_prop:s0
+
+camera.OPpictureId u:object_r:vendor_camera_prop:s0 exact int
