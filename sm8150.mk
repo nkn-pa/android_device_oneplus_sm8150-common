@@ -98,6 +98,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.pa.biometrics.fingerprint.inscreen@1.0-service.oneplus_msmnile
 
+# Google Camera
+PRODUCT_PACKAGES += \
+    GoogleCamera
+
 # Fstab
 ifneq ($(TARGET_USES_ONEPLUS_DYNAMIC_PARTITIONS),true)
 PRODUCT_COPY_FILES += \
